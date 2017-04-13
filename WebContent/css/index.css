@@ -1,0 +1,36 @@
+@CHARSET "UTF-8";
+.form1{
+	
+	margin-top: 100px;
+	margin-left: 400px;
+}
+.search{
+	width: 200px;
+	height:20px;
+	padding: 0px;
+	margin: 0px;	
+}
+.but{
+	background-color: #3385FF;
+	border: 0px;
+	padding: 0px;
+	margin: 0px;
+	height: 25px;
+	width: 60px;
+}
+.myDiv{
+	width: 200px;		
+}
+.myDiv ul{
+	width: 198px;	
+	margin:0px;
+	padding: 1px;	
+}
+.myDiv ul li{
+	list-style-type: none;
+	list-style-position:outside; 	
+}
+.myDiv ul li:hover{
+	background-color: #e5e5e5;
+	
+}
